@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = ["mr.arthur.chiu@gmail.com"]
   s.homepage    = "http://thumblemonks.github.com/riot/"
   s.summary     = %q{Acceptance Test Solution for Riot}
-  s.description = %q{An Acceptance Test Solution for Riot}
+  s.description = %q{A Minimalist Acceptance Test Solution for Riot}
 
   s.rubyforge_project = "melee"
 
